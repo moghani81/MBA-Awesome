@@ -1,32 +1,32 @@
-استراتژی جیست؟
-برنامه ریزی جیست؟
-Mintzberg’s 5Ps of Strategy
-استاتژی سازمان (تعریف شبکه - تقویت شبکه)
-طرح سوال پایه ایی برای تدوین استراتژی
-کارایی چیست؟
-اثربخشی چیست؟
-فیلیپ کاتلر
-تکنیک 6-3-5
-تقویم نوآوری
-دفترچه برنامه ریزی استراتژی
-داشبورد مدیریتی
-استراتژی جانشین پروری
-قصه های شب برای مدیران
-اصل تنوع و گوناگونی
-مدل Porter
-Henry Mintzberg
-مهارت چیست
-سیستم آموزش و پرورش ژاپن
-ویژگی های مدیر
-کارایی + اثربخشی = بهره وری
-کتاب مدیریت استراتژیک فرد آر دیوید
-تفاوت مدیر و رهبر
-ارزش چیست؟
-ارزش های سازمانی
-برنامه ریزی برای تقویت ارزش ها
-KPI چیست
-نگاه فرایندی
-انواع سازماندهی
-روان سازی
-کارآفرینی
-POSDCORB
+- What is strategy?
+- What is planning?
+- Mintzberg’s 5Ps of Strategy
+- Organizational Strategy (Network Definition - Network Strengthening)
+- Basic Question for Strategy Formulation
+- What is Efficiency?
+- What is Effectiveness?
+- Philip Kotler
+- 6-3-5 Technique
+- Innovation Calendar
+- Strategic Planning Notebook
+- Management Dashboard
+- Succession Planning Strategy
+- Bedtime Stories for Managers
+- Principle of Diversity
+- Porter Model
+- Henry Mintzberg
+- What is Skill?
+- Japanese Education System
+- Characteristics of a Manager
+- Efficiency + Effectiveness = Productivity
+- Fred R. David's Strategic Management Book
+- Difference between Manager and Leader
+- What is Value?
+- Organizational Values
+- Planning to Strengthen Values
+- What is KPI?
+- Process-oriented Perspective
+- Types of Organization
+- Streamlining
+- Entrepreneurship
+- POSDCORB
