@@ -1,4 +1,4 @@
-# Strategic Management and Organizational Design
+# Strategic Management
 
 ## What is Strategy?
 Strategy is a plan of action designed to achieve long-term or overall goals and objectives. It involves setting priorities, allocating resources, and determining the best course of action to achieve desired outcomes.
