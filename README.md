@@ -2,10 +2,10 @@
 
 ## Strategic Planning
 
-- [Session 1](/strategic planning/session 1.md)
-- [Session 2](/strategic planning/session 2.md)
+- [Session 1](/strategic%20planning/session%201.md)
+- [Session 2](/strategic%20planning/session%202.md)
 
 ## Organization and Management
 
-- [Session 1](/organization and management/session 1.md)
-- [Session 2](/organization and management/session 2.md)
+- [Session 1](/organization%20and%20management/session%201.md)
+- [Session 2](/organization%20and%20management/session%202.md)
