@@ -1,5 +1,3 @@
-# Comprehensive Guide
-
 ## What is a customer?
 
 A customer is an individual or entity that purchases goods or services from a business. Customers are crucial to businesses as they generate revenue and drive market demand. Understanding customer needs and preferences is vital for business success.
