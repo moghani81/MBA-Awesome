@@ -9,3 +9,7 @@
 
 - [Session 1](/organization%20and%20management/session%201.md)
 - [Session 2](/organization%20and%20management/session%202.md)
+
+## Marketing and Brand
+
+- [Session 1](/marketing%20and%20brand/session%201.md)
