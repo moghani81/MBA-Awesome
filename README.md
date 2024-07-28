@@ -4,6 +4,7 @@
 
 - [Session 1](/strategic%20planning/session%201.md)
 - [Session 2](/strategic%20planning/session%202.md)
+- [Session 3](/strategic%20planning/session%203.md)
 
 ## Organization and Management
 
